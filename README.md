@@ -1,2 +1,2 @@
 # videogametrivia
-Test your brain with this ***amazing**** game!!!!!
+Test your brain with this *amazing* game!!!!!
