@@ -69,7 +69,7 @@ function getInfo() {
 	window.response = ["Tempest was created in 1981 and was one of the first games to use vector graphics.  It's high inertia rotary controller is smooth as butter.",
 						"In 1979, Atari programmer Warren Robinett left his name in a secret room to get around Atari's disallowing programmers' names in the credits. ",
 						"The original Japanese names for the ghosts translated as Fickle, Chaser, Ambusher, and Stupid.",
-						"Over 157 million PS2's have been sold according to the Guiness Book of World Records",
+						"Over 157 million PS2's have been sold according to the Guinness Book of World Records",
 						"Though the graphics for Deus Ex are very dated, the soundtrack and story are still one of gaming's best achievements.",
 						"John Adams' minimalist industrial sounding music creates an eerie backdrop for the end game war you are likely in for angering a neighborhood culture for thousands of years.",
 						"3dFX release its Voodoo 1 card in 1996 to the cheers of Duke Nukem 3D and Doom players.",
